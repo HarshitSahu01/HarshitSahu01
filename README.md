@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshitSahu01
 - 👀 I’m interested in Science and Computers
-- 🌱 I’m currently in school
+- 🌱 I’m in first year
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 Reach me on sahuharshit2019@gmail.com 
 
