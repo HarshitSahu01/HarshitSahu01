@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Sahu</h1>
-<h3 align="center">Mujhe kuch nahi ata</h3>
+<h3 align="center">I am passionate about coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsahu01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsahu01" /> </p>
 
