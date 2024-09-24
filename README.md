@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitsahu01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitsahu01" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Tailwind, C++, Java**
+- 🌱 I’m currently learning **VueJS, Flask**
 
 - 💬 Ask me about **Python, Django, Web Dev, CP**
 
